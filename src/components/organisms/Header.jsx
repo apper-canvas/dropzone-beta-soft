@@ -13,9 +13,9 @@ function Header() {
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center">
               <ApperIcon name="Upload" className="w-6 h-6 text-white" />
-            </div>
+</div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">DropZone Pro</h1>
+              <h1 className="text-xl font-bold text-gray-900">bhusTassks</h1>
               <p className="text-sm text-gray-500">Upload and manage files efficiently</p>
             </div>
           </div>
